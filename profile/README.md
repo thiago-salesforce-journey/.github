@@ -1,5 +1,5 @@
 
-# Thiago – Salesforce Journey
+# Thiago Levi – Salesforce Journey
 
 Bem-vindo ao meu espaço de **estudos e projetos práticos em Salesforce**!  
 Aqui você acompanha minha **jornada técnica**, com foco em modelagem de dados, Apex, SOQL e boas práticas.
