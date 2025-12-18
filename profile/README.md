@@ -1,14 +1,5 @@
-<p>
-  <img
-    src="https://github.com/user-attachments/assets/ac04aba5-6377-40db-8b69-c1588d02ea14"
-    alt="SalesforceSfGIF"
-    width="420"
-  />
-</p>
 
-
-
- Thiago – Salesforce Journey
+# Thiago – Salesforce Journey
 
 Bem-vindo ao meu espaço de **estudos e projetos práticos em Salesforce**!  
 Aqui você acompanha minha **jornada técnica**, com foco em modelagem de dados, Apex, SOQL e boas práticas.
